@@ -5,6 +5,8 @@ University of London, interested in computational statistics, data science and m
 
 ## Core projects
 
+My headline projects, showcasing my technical work.
+
 <table>
 <tr>
 <td align="center" width="100%">
@@ -27,6 +29,8 @@ University of London, interested in computational statistics, data science and m
 </table>
 
 ## Other projects
+
+Smaller projects and prototypes.
 
 <table>
 <tr>
