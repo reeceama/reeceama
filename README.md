@@ -13,7 +13,7 @@ University of London, interested in computational statistics, data science and m
 
 (May - September 2026)
 
-*Python, Monte Carlo, Dixon-Coles, Maximum Likelihood*
+*Python, pandas, SciPy, Monte Carlo*
 
 </td>
 </tr>
@@ -36,7 +36,7 @@ University of London, interested in computational statistics, data science and m
 
 (October 2026, Invisible AI Hackathon)
 
-*Python, Swift, Claude API, ONNX Runtime, Browser Extension*
+*Python, Claude API, JavaScript, Swift*
 
 </td>
 </tr>
@@ -44,11 +44,11 @@ University of London, interested in computational statistics, data science and m
 
 ## Technical skills
 
-| Programming Languages | Methods |
+| Programming Languages | Mathematics & Statistics |
 |---|---|
-| *Python, R, SQL* | *Monte Carlo simulation, maximum likelihood estimation, model validation and calibration, rolling-origin backtesting, exploratory data analysis* |
-| **Libraries & Tools** | **Mathematics & Statistics** |
-| *pandas, NumPy, SciPy, Matplotlib, seaborn, BeautifulSoup, Jupyter, RStudio, Git* | *Probability distributions, statistical inference, hypothesis testing, regression* |
+| *Python, R, SQL* | *Probability distributions, statistical inference, hypothesis testing, regression* |
+| **Libraries & Tools** | **Methods** |
+| *pandas, NumPy, SciPy, Matplotlib, seaborn, BeautifulSoup, Jupyter, RStudio, Git* | *Monte Carlo simulation, maximum likelihood estimation, model validation and calibration, rolling-origin backtesting, exploratory data analysis* |
 
 ## Contact
 
