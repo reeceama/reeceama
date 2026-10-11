@@ -32,7 +32,7 @@ University of London, interested in computational statistics, data science and m
 <tr>
 <td align="center" width="100%">
 
-### [Referee](https://github.com/reeceama/Referee)
+### [Referee](https://github.com/reeceama/Referee): AI citation assistant
 
 (October 2026, Invisible AI Hackathon)
 
