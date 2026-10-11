@@ -3,7 +3,7 @@
 I'm Reece Mings-Alleyne, a final year BSc Mathematics and Statistics student at Queen Mary
 University of London, interested in computational statistics, data science and machine learning.
 
-## Projects
+## Core projects
 
 <table>
 <tr>
@@ -21,6 +21,22 @@ University of London, interested in computational statistics, data science and m
 <td>
 
 [![Predicted bracket](https://raw.githubusercontent.com/reeceama/FIFA-World-Cup-2026-Prediction-Model/main/images/likely_bracket.png)](https://github.com/reeceama/FIFA-World-Cup-2026-Prediction-Model)
+
+</td>
+</tr>
+</table>
+
+## Other projects
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### [Referee](https://github.com/reeceama/Referee)
+
+(October 2026, Invisible AI Hackathon)
+
+*Python, FastAPI, Claude API, Chrome extension*
 
 </td>
 </tr>
