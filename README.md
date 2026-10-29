@@ -36,11 +36,11 @@ University of London, interested in computational statistics, data science and m
 <tr>
 <td align="center" width="100%">
 
-### [Referee](https://github.com/reeceama/Referee): AI Citation Assistant
+### [Referee](https://github.com/reeceama/Referee)
 
-(October 2026, Invisible AI Hackathon)
+(Citation and Source Checker, October 2026)
 
-*Python, Claude API, JavaScript, Swift*
+*Python, Swift, JavaScript, LLM APIs*
 
 </td>
 </tr>
